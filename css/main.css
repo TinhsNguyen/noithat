@@ -10,8 +10,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
-/*     background: #000000; */
-    background: red;
+    background: #000000;
 }
 
 a {
